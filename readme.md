@@ -4,7 +4,7 @@ Este repositório é um exercício prático para aplicar os conceitos de **Clean
 
 ## 📌 Objetivo
 
-Implementar e demonstrar o uso de múltiplos **Design Patterns** com código limpo e testável, acompanhado de testes unitários usando `pytest`.
+Implementar e demonstrar o uso de múltiplos **Design Patterns** com **Clean Code** e  com **Qualidade de Software** , acompanhado de **Testes Unitários** usando `pytest`.
 
 ---
 
@@ -34,8 +34,7 @@ Implementar e demonstrar o uso de múltiplos **Design Patterns** com código lim
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/design-patterns-python.git
-cd design-patterns-python
+1. git clone https://github.com/EvertonnReis/design-patterns-clean-code-posgraducao.git
 2. Criar um ambiente virtual (opcional, mas recomendado)
 bash
 python -m venv venv
